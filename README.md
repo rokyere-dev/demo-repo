@@ -10,4 +10,4 @@ HTML will be used for this tutorial.
 
 1. Open index.html in your browser.
 
-2. Add a div tag with the the text hello git.
+2. Add a div tag with the text hello git.
